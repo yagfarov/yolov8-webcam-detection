@@ -1,0 +1,19 @@
+# environments
+venv/
+.env/
+
+# datasets
+dataset/
+
+# training results
+runs/
+
+# python
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# large weights
+*.pt
